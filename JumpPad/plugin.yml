@@ -1,0 +1,6 @@
+name: JumpPad
+version: 1.0.0
+main: JellifyTools\JumpPad\Main
+author: Jellify-Tools
+description: A plugin that detects when a player walks over a configured block and applies a jump boost.
+api: [5.41.0]
